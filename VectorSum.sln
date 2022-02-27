@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VectorSum", "VectorSum\VectorSum.vcxproj", "{A5B9AEE3-D1B7-45CA-AF4F-12EF7C1C8E0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B9AEE3-D1B7-45CA-AF4F-12EF7C1C8E0D}.Debug|x64.ActiveCfg = Debug|x64
+		{A5B9AEE3-D1B7-45CA-AF4F-12EF7C1C8E0D}.Debug|x64.Build.0 = Debug|x64
+		{A5B9AEE3-D1B7-45CA-AF4F-12EF7C1C8E0D}.Release|x64.ActiveCfg = Release|x64
+		{A5B9AEE3-D1B7-45CA-AF4F-12EF7C1C8E0D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68EB7CEF-7134-4FF4-8EBF-D2F623B1BAB1}
+	EndGlobalSection
+EndGlobal
