@@ -11,7 +11,7 @@
 Центральный процессор:	11th Gen Intel(R) Core(TM) i5-11400H @ 2.70GHz, 2688 МГц, ядер: 6, логических процессоров: 12  
 ![image](https://user-images.githubusercontent.com/44916652/155966922-af0831c8-742b-4c7c-8737-0a6beb4bee03.png)  
 Тип	Компьютер на базе x64  
-Оперативная память:  8 Гб, 800МГц
+Оперативная память:  8 Гб, 800МГц  
 ![image](https://user-images.githubusercontent.com/44916652/155967126-442203d3-9176-49c2-8c69-7632a2157683.png)  
 Графический процессор: NVIDIA GeFOrce RTX 3050 Laptop GPU, 4 Гб видеопамяти, GDDR6
 ![image](https://user-images.githubusercontent.com/44916652/155966966-9427e479-554d-4af6-9a34-6d53619ed24a.png)  
